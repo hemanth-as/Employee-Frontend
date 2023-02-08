@@ -1,0 +1,6 @@
+.table{
+    float: left;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid rgba(128, 128, 128, 0.128);
+}
